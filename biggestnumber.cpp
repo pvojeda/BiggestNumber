@@ -34,7 +34,7 @@ int main()
 
   cout<<"Of those two numbers, the biggest is: "<<biggest<<endl;
 
-  cout<<endl<<"Thank you for playing."<<endl;
+  cout<<"Thank you for playing."<<endl;
 
   return 0;
 }
