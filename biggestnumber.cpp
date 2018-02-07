@@ -32,7 +32,7 @@ int main()
 
 
 
-  cout<<"Of those two numbers, the biggest is : "<<biggest<<endl;
+  cout<<"Of those two numbers, the biggest is: "<<biggest<<endl;
   cout<<endl<<"Thank you for playing.\n";
 
   return 0;
